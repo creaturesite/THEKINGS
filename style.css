@@ -269,4 +269,12 @@ text-decoration: underline;
     transform: translateY(30px);
     transition: 1s;
 }
+.minilogo 
+{
+    width: 50px;
+}
+.mini 
+{
+    text-align: center;
+}
     }
